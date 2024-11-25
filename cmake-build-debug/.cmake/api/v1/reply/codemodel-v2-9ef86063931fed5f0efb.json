@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TASK_7_SQUARE_AND_CUBE_OF_NUMBERS",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TASK_7_SQUARE_AND_CUBE_OF_NUMBERS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TASK_7_SQUARE_AND_CUBE_OF_NUMBERS-Debug-46f21d27f0bc98acc1e2.json",
+					"name" : "TASK_7_SQUARE_AND_CUBE_OF_NUMBERS",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/pc/CLionProjects/TASK 7 SQUARE AND CUBE OF NUMBERS/cmake-build-debug",
+		"source" : "C:/Users/pc/CLionProjects/TASK 7 SQUARE AND CUBE OF NUMBERS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
